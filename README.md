@@ -1,4 +1,4 @@
-# My Python project template
+# HY_cce
 
 ## How to set up
 
@@ -15,12 +15,8 @@ flake8等のdev-packagesがないときは
 pipenv install --dev
 ```
 
-flake8等のdev-packagesがないときは
-
+`src/hy`に移動してCライブラリをビルド
 ```
-pipenv install --dev
+python3 setup.py build_ext --inplace
 ```
 
-## gitのremoteを変える方法
-
-<https://note.com/shift_tech/n/nc00511c05f1d>
