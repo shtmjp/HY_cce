@@ -6,12 +6,11 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-requests = "*"
-pybotters = "*"
 pandas-ta = "*"
 matplotlib = "*"
 seaborn = "*"
 japanize-matplotlib = "*"
+rpy2 = "*"
 
 [dev-packages]
 ipykernel = "*"
