@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 japanize-matplotlib = "*"
 rpy2 = "*"
+pillow = "*"
 
 [dev-packages]
 ipykernel = "*"
