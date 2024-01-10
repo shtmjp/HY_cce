@@ -12,6 +12,7 @@ seaborn = "*"
 japanize-matplotlib = "*"
 rpy2 = "*"
 pillow = "*"
+fonttools = ">=4.43.0"
 
 [dev-packages]
 ipykernel = "*"
